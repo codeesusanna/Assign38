@@ -1,0 +1,4 @@
+tup1=('a','l','w','a','y','s')
+tup2=('s','m','i','l','e')
+tup3=(tup1+tup2)
+print(tup3)
